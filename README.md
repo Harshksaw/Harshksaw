@@ -96,10 +96,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshksaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Harshksaw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshksaw&show_icons=true&locale=en&layout=compact" alt="harshksaw" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshksaw&" alt="harshksaw" /></p>
 
 ###
 
