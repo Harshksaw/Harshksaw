@@ -124,12 +124,12 @@
 </div>
 <div>
   
-<h2>
+<h1 >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshksaw&theme=aura_dark)
 
 
-<h2>
+<h1>
 
   
 
