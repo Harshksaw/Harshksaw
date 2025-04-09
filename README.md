@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/harsh-kumar-saw-32727b247">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -21,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FAAFF&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FAAFF&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <img align="right" height="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="coding gif" />
